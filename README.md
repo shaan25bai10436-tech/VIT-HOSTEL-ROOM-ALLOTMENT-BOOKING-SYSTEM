@@ -92,4 +92,3 @@ System for Allocating Hostel Rooms
 
  Anticipated Outcome: All four input fields ought to be empty.
 
- ● Screenshots (recommended but optional)
